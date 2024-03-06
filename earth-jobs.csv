@@ -1,4 +1,4 @@
-"id","age","gender","major","job","education","salary","hire_date","status"
+"id","age","gender","area","job","education","salary","hire_date","status"
 1,32,"Female","Environmental Science","Field","Master's",82692.78,2018-01-26,"Inactive"
 2,30,"Male","Environmental Science","Field","High School",53895.35,2020-12-05,"Active"
 3,24,"Male","Geography","Government","High School",40953.3,2022-04-08,"Active"
