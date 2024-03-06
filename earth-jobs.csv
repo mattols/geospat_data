@@ -1,0 +1,31 @@
+"id","age","gender","major","job","education","salary","hire_date","status"
+1,32,"Female","Environmental Science","Field","Master's",82692.78,2018-01-26,"Inactive"
+2,30,"Male","Environmental Science","Field","High School",53895.35,2020-12-05,"Active"
+3,24,"Male","Geography","Government","High School",40953.3,2022-04-08,"Active"
+4,24,"Male","Environmental Science","Data Science","PhD",90676.02,2021-05-31,"Inactive"
+5,23,"Male","Geology","Field","Master's",86569.61,2019-12-04,NA
+6,28,"Male","Geography","Field","PhD",80452.3,2021-09-22,"Active"
+7,33,"Male","Environmental Science","Data Science","PhD",80676.02,2018-09-13,"Inactive"
+8,22,"Male","Geology","Field","PhD",74950.68,2018-02-08,"Active"
+9,24,"Male","Geology","GIS","Master's",93399.82,2018-11-23,"Inactive"
+10,34,"Female","Geography","Field","Bachelor's",69872.5,2018-02-14,NA
+11,28,"Female","Geology","Field","PhD",74950.68,2021-08-19,"Inactive"
+12,34,"Male","Geology","Field","Master's",86440.19,2018-11-28,"Active"
+13,34,"Female","Geography","Data Science","Master's",109564.39,2021-01-24,NA
+14,35,"Male","Geology","Data Science","Master's",93399.82,2022-09-06,NA
+15,23,"Female","Environmental Science","GIS","High School",64184.14,2022-01-30,"Active"
+16,34,"Female","Geography","GIS","PhD",80676.02,2020-04-07,"Inactive"
+17,34,"Male","Environmental Science","Field","High School",53895.35,2021-01-11,"Active"
+18,30,"Male","Geography","Data Science","Master's",109564.39,2020-05-06,"Active"
+19,26,"Female","Geography","Government","High School",40953.3,2019-02-05,"Active"
+20,22,"Male","Geology","Government","High School",49526.9,2022-07-31,NA
+21,31,"Female","Geography","Field","Master's",NA,2022-07-03,NA
+22,30,"Female","Geography","Field","Bachelor's",NA,2021-11-06,"Inactive"
+23,30,"Male","Geology","Government","Bachelor's",87264.13,2018-06-08,"Inactive"
+24,28,"Male","Geography","GIS","High School",66438.4,2022-08-29,"Inactive"
+25,23,"Male","Environmental Science","Data Science","Bachelor's",81937.2,2021-08-05,NA
+26,33,"Male","Geology","Field","PhD",74950.68,2020-04-27,"Inactive"
+27,29,"Male","Geology","GIS","Master's",106631.36,2022-12-16,"Active"
+28,28,"Male","Environmental Science","Field","High School",56668.85,2019-08-07,"Active"
+29,27,"Female","Environmental Science","Data Science","High School",60139.42,2022-07-27,"Active"
+30,28,"Female","Geography","Data Science","High School",60453.13,2020-04-10,"Active"
